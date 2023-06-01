@@ -1,0 +1,71 @@
+Default array:
+Jan                  Kowalski                 1986
+Adam                 Kowalski                 1963
+Piotr                Smith                    2000
+Anna                 Nowak                    1999
+Anna                 Wisniewska               2003
+Adam                 Borek                    1950
+Robert               Lewandowski              1963
+Jakub                Cash                     1995
+Anna                 Nowak                    2005
+Patrycja             Zielinska                1970
+
+Sorted by insert sort and year comparator
+Adam                 Borek                    1950
+Adam                 Kowalski                 1963
+Robert               Lewandowski              1963
+Patrycja             Zielinska                1970
+Jan                  Kowalski                 1986
+Jakub                Cash                     1995
+Anna                 Nowak                    1999
+Piotr                Smith                    2000
+Anna                 Wisniewska               2003
+Anna                 Nowak                    2005
+
+Sorted by select sort and surname comparator
+Adam                 Borek                    1950
+Jakub                Cash                     1995
+Jan                  Kowalski                 1986
+Adam                 Kowalski                 1963
+Robert               Lewandowski              1963
+Anna                 Nowak                    1999
+Anna                 Nowak                    2005
+Piotr                Smith                    2000
+Anna                 Wisniewska               2003
+Patrycja             Zielinska                1970
+
+Sorted by bubble sort and name comparator
+Adam                 Borek                    1950
+Adam                 Kowalski                 1963
+Anna                 Nowak                    1999
+Anna                 Nowak                    2005
+Anna                 Wisniewska               2003
+Jakub                Cash                     1995
+Jan                  Kowalski                 1986
+Patrycja             Zielinska                1970
+Piotr                Smith                    2000
+Robert               Lewandowski              1963
+
+Sorted by insert sort and compound comparator (name -> surname -> year)
+Adam                 Borek                    1950
+Adam                 Kowalski                 1963
+Anna                 Nowak                    1999
+Anna                 Nowak                    2005
+Anna                 Wisniewska               2003
+Jakub                Cash                     1995
+Jan                  Kowalski                 1986
+Patrycja             Zielinska                1970
+Piotr                Smith                    2000
+Robert               Lewandowski              1963
+
+Sorted by select sort and complex comparator (surname -> name -> year)
+Adam                 Borek                    1950
+Jakub                Cash                     1995
+Adam                 Kowalski                 1963
+Jan                  Kowalski                 1986
+Robert               Lewandowski              1963
+Anna                 Nowak                    1999
+Anna                 Nowak                    2005
+Piotr                Smith                    2000
+Anna                 Wisniewska               2003
+Patrycja             Zielinska                1970

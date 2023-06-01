@@ -1,0 +1,88 @@
+List of names:
+Piotr
+Mateusz
+Jan
+Adam
+Anna
+Bartek
+
+List of names after insertion:
+Pawel
+Piotr
+Mateusz
+Jan
+Adam
+Anna
+Bartek
+Agnieszka
+
+List after setting new names:
+Daria
+Piotr
+Mateusz
+Pawel
+Adam
+Anna
+Bartek
+Agnieszka
+
+Get indexes of
+Daria: 0
+Adam: 4
+Wrong data: -1
+
+Check if list contains elements
+Adam: true
+Daria: true
+Andrzej: false
+
+Get second and sixth element
+Piotr
+Anna
+
+Removed element: Pawel
+Removed element: Mateusz
+List after removing by position:
+Daria
+Piotr
+Adam
+Anna
+Bartek
+Agnieszka
+
+List after adding new names:
+Daria
+Piotr
+Adam
+Anna
+Bartek
+Agnieszka
+Anna
+
+Is Piotr removed: true
+Is Daria removed: true
+List after removing by value:
+Adam
+Anna
+Bartek
+Agnieszka
+Anna
+
+Removed: Anna
+Removed: Adam
+List after removing by 'getEl':
+Bartek
+Agnieszka
+Anna
+
+Removed: Bartek
+Removed: Agnieszka
+List after removing two first elements:
+Anna
+
+Check if list is empty: false
+Size of list: 1
+List after clearing:
+
+Check if list is empty: true
+Size of list: 0

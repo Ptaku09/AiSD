@@ -1,0 +1,13 @@
+Linear search:
+Founded: 371
+Average comparisons - founded: 2431.75
+Missed: 629
+Average comparisons - missed: 5000.0
+Total average comparisons: 4047.18
+
+Binary search:
+Founded: 371
+Average comparisons - founded: 11.04
+Missed: 629
+Average comparisons - missed: 12.37
+Total average comparisons: 11.88

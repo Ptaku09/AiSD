@@ -1,0 +1,21 @@
+Size of empty list: 0
+
+Display list:
+5 14 3 20 1 0 17 18
+
+Display list in reversed order:
+18 17 0 1 20 3 14 5
+
+Display copy of list after adding new elements:
+5 14 3 20 1 0 17 18 2 12 34 28
+
+Display copy of list after adding new element in reversed order:
+28 34 12 2 18 17 0 1 20 3 14 5
+
+Display list to see if list was copied properly:
+5 14 3 20 1 0 17 18
+
+Sum of keys (list): 78
+Sum of keys (copy): 154
+Size (list): 8
+Size (copy): 12

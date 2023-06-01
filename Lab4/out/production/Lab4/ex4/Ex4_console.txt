@@ -1,0 +1,35 @@
+Stack is empty: true
+Stack size: 0
+
+Stack after pushing elements
+Stack is empty: false
+Stack size: 6
+
+Get top element without removing: 6
+Stack size: 6
+
+Stack elements:
+6
+5
+4
+3
+2
+1
+
+Stack is empty: true
+Stack size: 0
+
+Stack after pushing more elements than initial capacity can contain
+Stack is empty: false
+Stack size: 6
+
+Stack elements:
+9
+8
+7
+6
+5
+4
+
+Stack is empty: true
+Stack size: 0

@@ -1,0 +1,39 @@
+Priority queue:
+12 7 10 4 6 5 9 1
+
+After changing priority of index 0 to 2:
+10 7 9 4 6 5 2 1
+
+After deleting index 2:
+10 7 5 4 6 1 2
+
+After deleting index 0:
+7 6 5 4 2 1
+
+Dequeued: 7
+6 4 5 1 2
+
+Dequeued: 6
+5 4 2 1
+
+Dequeued: 5
+4 1 2
+
+Dequeued: 4
+2 1
+
+Dequeued: 2
+1
+
+Dequeued: 1
+
+
+------------------------
+HEAP SORT
+------------------------
+
+Initial array:
+2 4 6 0 8 12 321 4 6
+
+After sorting:
+0 2 4 4 6 6 8 12 321

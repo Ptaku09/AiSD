@@ -1,0 +1,33 @@
+Check if stack is empty:
+Is empty: true
+Size: 0
+
+Added: Mateusz
+Added: Piotr
+Added: Pawel
+Added: Adam
+Added: Anna
+Added: Maria
+
+Check if elements were added correctly:
+Is empty: false
+Size: 6
+
+Get top element without removing:
+Maria
+
+Check if element was not removed:
+Is empty: false
+Size: 6
+
+Pop elements:
+Maria
+Anna
+Adam
+Pawel
+Piotr
+Mateusz
+
+Check if elements were collected correctly:
+Is empty: true
+Size: 0

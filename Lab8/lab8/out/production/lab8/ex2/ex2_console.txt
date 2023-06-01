@@ -1,0 +1,53 @@
+Linear Hash
+alpha = 0.65
+Founded tries: 381.93
+Missed tries: 630.27
+Average tries: 506.1
+
+Linear Hash
+alpha = 0.8
+Founded tries: 530.52
+Missed tries: 780.57
+Average tries: 655.54
+
+Linear Hash
+alpha = 0.95
+Founded tries: 681.11
+Missed tries: 930.57
+Average tries: 805.84
+
+Quadratic Hash
+alpha = 0.65
+Founded tries: 26.96
+Missed tries: 49.53
+Average tries: 38.24
+
+Quadratic Hash
+alpha = 0.8
+Founded tries: 41.8
+Missed tries: 79.92
+Average tries: 60.86
+
+Quadratic Hash
+alpha = 0.95
+Founded tries: 66.55
+Missed tries: 183.7
+Average tries: 125.12
+
+Double Hash
+alpha = 0.65
+Founded tries: 32.05
+Missed tries: 42.26
+Average tries: 37.16
+
+Double Hash
+alpha = 0.8
+Founded tries: 44.53
+Missed tries: 52.62
+Average tries: 48.58
+
+Double Hash
+alpha = 0.95
+Founded tries: 57.36
+Missed tries: 62.21
+Average tries: 59.78

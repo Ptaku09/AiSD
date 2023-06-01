@@ -1,0 +1,65 @@
+LINEAR HASH
+isEmpty: true
+size: 0
+
+Current state:
+Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty
+
+Current state:
+Empty   Empty   Empty   Empty   789     15435   456     1334    167     673     835     Empty   Empty   123     Empty   Empty   Empty
+
+Current state:
+Empty   Empty   Empty   Empty   789     15435   167     673     835     45      Empty   Empty   1465    Empty   Empty   Empty   693     Empty   957     61      Empty   Empty   456     1334    905     345     21      116     Empty   Empty   123     Empty   Empty   Empty
+
+Get elements which does not exist (1): -1
+Get elements which exists (345): 345
+Check if table contains key, which does not exist (1): false
+Check if table contains key, which exists (345): true
+isEmpty: false
+size: 17
+
+------------------------------------------------------------------------
+
+QUADRATIC HASH
+isEmpty: true
+size: 0
+
+Current state:
+Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty
+
+Current state:
+Empty   Empty   Empty   Empty   789     15435   456     1334    673     167     Empty   Empty   Empty   123     835     Empty   Empty
+
+Current state:
+Empty   Empty   Empty   Empty   789     45      15435   673     Empty   167     Empty   Empty   1465    Empty   835     Empty   693     Empty   957     61      Empty   Empty   456     1334    905     345     21      116     Empty   Empty   123     Empty   Empty   Empty
+
+Get elements which does not exist (1): -1
+Get elements which exists (345): 345
+Check if table contains key, which does not exist (1): false
+Check if table contains key, which exists (345): true
+isEmpty: false
+size: 17
+
+------------------------------------------------------------------------
+
+DOUBLE HASH
+isEmpty: true
+size: 0
+
+Current state:
+Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty   Empty
+
+Current state:
+673     Empty   Empty   Empty   15435   789     456     Empty   Empty   Empty   Empty   Empty   167     835     123     1334    Empty
+
+Current state:
+Empty   Empty   Empty   Empty   45      789     673     Empty   Empty   Empty   Empty   Empty   167     1465    Empty   Empty   Empty   693     Empty   957     905     835     1334    456     Empty   345     116     15435   Empty   Empty   Empty   123     61      21
+
+Get elements which does not exist (1): -1
+Get elements which exists (345): 345
+Check if table contains key, which does not exist (1): false
+Check if table contains key, which exists (345): true
+isEmpty: false
+size: 17
+
+------------------------------------------------------------------------

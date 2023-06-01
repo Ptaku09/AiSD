@@ -1,0 +1,33 @@
+Check if queue is empty:
+Is empty: true
+Size: 0
+
+Added: Mateusz
+Added: Piotr
+Added: Pawel
+Added: Adam
+Added: Anna
+Added: Maria
+
+Check if elements were added correctly:
+Is empty: false
+Size: 6
+
+Get first elements without removing:
+Mateusz
+
+Check if element was not removed:
+Is empty: false
+Size: 6
+
+Dequeue elements:
+Mateusz
+Piotr
+Pawel
+Adam
+Anna
+Maria
+
+Check if elements were dequeued correctly:
+Is empty: true
+Size: 0

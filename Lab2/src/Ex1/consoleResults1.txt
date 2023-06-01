@@ -1,0 +1,49 @@
+Array of products:
+Name                  Amount        Price          Value
+Keyboard                  15        49,99         749,85
+Mouse                     12        19,99         239,88
+Mouse pad                 48         5,00         290,00
+Headset                    0        32,50           0,00
+Monitor                    2       143,80         287,60
+Laptop                     0      1000,00           0,00
+Lamp                       0        12,50           0,00
+
+Change operation logs:
+Price of Mouse is set to: 15,00
+Price of Mouse pad is set to: 7,00
+Price of Headset is set to: 40,99
+
+Array of products:
+Name                  Amount        Price          Value
+Keyboard                  15        49,99         749,85
+Mouse                     12        15,00         180,00
+Mouse pad                 48         7,00         336,00
+Headset                    0        40,99           0,00
+Monitor                    2       143,80         287,60
+Laptop                     0      1000,00           0,00
+Lamp                       0        12,50           0,00
+
+Array of products cheaper than 40.99$:
+Name                  Amount        Price          Value
+Mouse                     12        15,00         180,00
+Mouse pad                 48         7,00         336,00
+Lamp                       0        12,50           0,00
+
+Array of products cheaper than 5$:
+Name                  Amount        Price          Value
+
+Array of products cheaper than 2000$:
+Name                  Amount        Price          Value
+Keyboard                  15        49,99         749,85
+Mouse                     12        15,00         180,00
+Mouse pad                 48         7,00         336,00
+Headset                    0        40,99           0,00
+Monitor                    2       143,80         287,60
+Laptop                     0      1000,00           0,00
+Lamp                       0        12,50           0,00
+
+Array of out of stock products:
+Name                  Amount        Price          Value
+Headset                    0        40,99           0,00
+Laptop                     0      1000,00           0,00
+Lamp                       0        12,50           0,00

@@ -1,0 +1,542 @@
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+1
+
+Enter the element:
+5
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+1
+
+Enter the element:
+3
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+1
+
+Enter the element:
+8
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+1
+
+Enter the element:
+6
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+1
+
+Enter the element:
+12
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+2
+
+5 3 8 6 12
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+3
+
+3 5 6 8 12
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+4
+
+3 6 12 8 5
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+5
+
+Enter the element:
+3
+
+Founded element: 3
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+6
+
+Enter the element:
+8
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+7
+
+Height: 2
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+8
+
+Number of nodes: 4
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+9
+
+Number of leaves: 2
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+10
+
+5, 3, 12, 6,
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+11
+
+Enter the element:
+5
+
+Successor: 6
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+12
+
+Enter the element:
+12
+
+Predecessor: 6
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+13
+
+Minimum: 3
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+14
+
+Maximum: 12
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+15
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+16
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+17
+
+                        (5, 2, 4)
+
+          (3, 0, 1)                  (12, 1, 2)
+
+                               (6, 0, 1)
+
+
+
+1. Insert element
+2. Preorder walk
+3. Inorder walk
+4. Postorder walk
+5. Search element
+6. Delete element
+7. Get height
+8. Get number of nodes
+9. Get number of leaves
+10. Display by level
+11. Find successor
+12. Find predecessor
+13. Find minimum
+14. Find maximum
+15. Calculate height for each subtree *PRINT TREE TO SEE RESULTS*
+16. Calculate number of nodes for each subtree *PRINT TREE TO SEE RESULTS*
+17. Print tree *Pattern: (value, subtree_height (-1 -> unset), subtree_num_of_nodes (-1 -> unset))*
+0. Exit
+
+Enter your choice:
+0

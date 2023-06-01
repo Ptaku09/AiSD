@@ -1,0 +1,30 @@
+---------------- FIND VALUES ----------------
+Find 2 (present): 2
+Find 123 (absent): -1
+
+---------------- INORDER WALK ----------------
+1r 2b 3b 5r 6b 12b 13b 14b 15b 
+
+---------------- DISPLAY BY LEVEL ----------------
+12b 3b 14b 2b 6b 13b 15b 1r 5r 
+
+---------------- TREE DATA ----------------
+Height: 4
+Left subtree height: 3
+Right subtree height: 2
+Number of nodes: 9
+Left subtree number of nodes: 5
+Number of nodes: 3
+
+---------------- INORDER WITH ALL NODE DATA ----------------
+Template -> [value, color, left subtree height, right subtree height, left subtree number of nodes, right subtree number of nodes]
+[1, r, 0, 0, 0, 0] [2, b, 1, 0, 1, 0] [3, b, 2, 2, 2, 2] [5, r, 0, 0, 0, 0] [6, b, 1, 0, 1, 0] [12, b, 3, 2, 5, 3] [13, b, 0, 0, 0, 0] [14, b, 1, 1, 1, 1] [15, b, 0, 0, 0, 0] 
+
+---------------- DRAW TREE ----------------
+                               12b                              
+
+               3b                              14b              
+
+       2b              6b              13b             15b      
+
+   1r              5r     
